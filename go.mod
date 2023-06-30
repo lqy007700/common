@@ -1,4 +1,4 @@
-module github.com/zxnlx/common
+module common
 
 go 1.18
 
